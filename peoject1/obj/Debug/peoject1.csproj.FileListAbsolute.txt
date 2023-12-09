@@ -1,0 +1,8 @@
+D:\peoject1\peoject1\bin\Debug\peoject1.exe.config
+D:\peoject1\peoject1\bin\Debug\peoject1.exe
+D:\peoject1\peoject1\bin\Debug\peoject1.pdb
+D:\peoject1\peoject1\obj\Debug\peoject1.csproj.AssemblyReference.cache
+D:\peoject1\peoject1\obj\Debug\peoject1.csproj.SuggestedBindingRedirects.cache
+D:\peoject1\peoject1\obj\Debug\peoject1.csproj.CoreCompileInputs.cache
+D:\peoject1\peoject1\obj\Debug\peoject1.exe
+D:\peoject1\peoject1\obj\Debug\peoject1.pdb
